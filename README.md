@@ -1,1 +1,1 @@
-# learning-git-2
+https://gwiazdopatrznia.github.io/learning-git-2/
